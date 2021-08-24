@@ -5,7 +5,11 @@ Welcome to Door Open System is simulation system to open door using SERVO motor 
 This project was implemented for academic purpose but you can use it in your own concern.
 
 In this project proteus have been used to design system and following components were used:
+
   -> Servo motor
+  
   -> Liquid Crystal Display
+  
   -> KeyPad
+  
   -> Arduino Uno
